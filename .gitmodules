@@ -1,0 +1,6 @@
+[submodule "static-site-generator-frontend"]
+	path = static-site-generator-frontend
+	url = https://github.com/MosesSoftEng/static-site-generator-frontend.git
+[submodule "static-site-generator-backend"]
+	path = static-site-generator-backend
+	url = https://github.com/MosesSoftEng/static-site-generator-backend.git
